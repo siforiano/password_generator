@@ -27,5 +27,5 @@ Necesitas tener **Python 3.x** instalado en tu sistema.
 
 ### 2. Clonar el Repositorio
 
-git clone [https://github.com/siforiano/PasswordGenerator.git](https://github.com/siforiano/PasswordGenerator.git)
+git clone [[https://github.com/siforiano/PasswordGenerator.git](https://github.com/siforiano/password_generator)](https://github.com/siforiano/password_generator)
 cd PasswordGenerator
